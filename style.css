@@ -1,6 +1,12 @@
 body{
     background-color:black;
 }
-h1,h2{
+h1{
     color:orange;
+    font-style:bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color:orange;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
