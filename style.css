@@ -29,4 +29,6 @@ li{
 }
 img{
     width: 300px;
+    text-align: center;
+    border: 5px solid #AA6C39; 
 }
