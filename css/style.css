@@ -10,8 +10,9 @@ a{
     color:#AA3939;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-h1{
+h1 p{
     font-style:bolder;
     color:#AA3939;
     font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center; 
 }
