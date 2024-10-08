@@ -1,7 +1,7 @@
 body{
     background-color:black;
 }
-header{
+nav{
     text-align: center;
     background-color: #AA6C39;
     font-size: 20px;
@@ -13,13 +13,13 @@ a{
 }
 h1{
     font-style:bolder;
-    color:#AA3939;
+    color:#AA6C39;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center; 
 }
 p{
     font-style:bolder;
-    color:#AA3939;
+    color:#AA6C39;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center; 
 }
