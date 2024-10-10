@@ -37,3 +37,6 @@ img{
     height: 200px;
     border: 5px solid #AA6C39; 
 }
+.center{
+    text-align: center;
+}
