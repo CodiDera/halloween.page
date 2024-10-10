@@ -36,5 +36,7 @@ li{
 img{
     height: 200px;
     border: 5px solid #AA6C39; 
-    padding: 10px;
+}
+#padding{
+    padding: 10px; 
 }
