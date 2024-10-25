@@ -1,7 +1,7 @@
 body{
     background-color:black;
-    margin: 0 auto;
-    padding: 0 auto; 
+    margin: 0;
+    padding: 0;
 }
 nav{
     text-align: center;
@@ -10,8 +10,7 @@ nav{
 }
 header{
     background-color:#AA6C39;
-    margin: 0 auto;
-    padding: 0 auto;
+    padding: 1em;
 }
 a{
     font-style:bolder;
