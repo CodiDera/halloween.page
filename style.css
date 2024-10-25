@@ -10,6 +10,7 @@ header{
     background-color:#AA6C39;
     margin: 0px auto;
     padding: 0px auto;
+    z-index: 1;
 }
 a{
     font-style:bolder;
