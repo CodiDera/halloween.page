@@ -1,6 +1,7 @@
 body{
     background-color:black;
-    z-index: -1;
+    margin: 0 auto;
+    padding: 0 auto; 
 }
 nav{
     text-align: center;
@@ -9,9 +10,8 @@ nav{
 }
 header{
     background-color:#AA6C39;
-    margin: 0px auto;
-    padding: 0px auto;
-    z-index: 1;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 a{
     font-style:bolder;
