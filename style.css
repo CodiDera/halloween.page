@@ -8,6 +8,8 @@ nav{
 }
 header{
     background-color:#AA6C39;
+    margin:0px;
+    padding:0px;
 }
 a{
     font-style:bolder;
