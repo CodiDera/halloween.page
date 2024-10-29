@@ -6,6 +6,7 @@ body{
 iframe{
     height:300px;
     width:50%; 
+    border: 5px double #AA6C39; 
 }
 nav{
     text-align: center;
@@ -49,7 +50,7 @@ li{
 }
 img{
     height: 200 px;
-    border: 5px solid #AA6C39; 
+    border: 5px double #AA6C39; 
     margin-left: 20px;
     margin-right: 20px; 
 }
